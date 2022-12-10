@@ -1,3 +1,5 @@
+package br.com.ada.exercicios;
+
 import java.time.Duration;
 import java.time.LocalTime;
 import java.time.temporal.ChronoUnit;
