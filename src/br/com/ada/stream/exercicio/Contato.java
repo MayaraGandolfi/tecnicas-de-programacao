@@ -1,4 +1,4 @@
-package br.com.ada.exercicios2;
+package br.com.ada.stream.exercicio;
 
 import java.time.LocalDate;
 
